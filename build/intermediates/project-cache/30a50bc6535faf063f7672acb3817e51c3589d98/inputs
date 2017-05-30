@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=9803171765bbb31a13dcd64898991250a0f3a385
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

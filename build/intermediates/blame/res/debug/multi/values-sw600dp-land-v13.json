@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 65,
+                        "endOffset": 825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 63,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endColumn": 63,
+                        "endOffset": 759
+                    }
+                }
+            }
+        ]
+    }
+]

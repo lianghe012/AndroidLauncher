@@ -1,0 +1,4 @@
+#Tue May 30 15:54:31 CST 2017
+base.0=/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/transforms/dexMerger/debug/6
+renamed.0=classes.dex
+file.0=/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/transforms/dexMerger/debug/6/classes.dex

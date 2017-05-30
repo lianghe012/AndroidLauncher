@@ -1,0 +1,663 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:20:1-404:12
+INJECTED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:20:1-404:12
+INJECTED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:20:1-404:12
+INJECTED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:20:1-404:12
+INJECTED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:20:1-404:12
+	package
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:24:5-36
+	android:versionName
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:23:5-35
+		INJECTED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml
+		INJECTED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:21:5-63
+	android:versionCode
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:22:5-33
+		INJECTED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml
+		INJECTED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:25:5-73
+	android:targetSdkVersion
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:25:15-44
+	android:minSdkVersion
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:25:45-71
+supports-screens
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:27:5-32:40
+	android:largeScreens
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:30:13-40
+	android:smallScreens
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:28:13-40
+	android:normalScreens
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:29:13-41
+	android:resizeable
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:31:13-38
+	android:anyDensity
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:32:13-38
+permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:33:5-38:67
+	android:label
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:37:9-57
+	android:protectionLevel
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:36:9-44
+	android:permissionGroup
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:35:9-72
+	android:description
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:38:9-64
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:34:9-72
+permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:39:5-44:68
+	android:label
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:43:9-59
+	android:protectionLevel
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:42:9-44
+	android:permissionGroup
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:41:9-72
+	android:description
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:44:9-66
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:40:9-74
+permission#com.android.launcher3.permission.READ_SETTINGS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:45:5-50:63
+	android:label
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:49:9-54
+	android:protectionLevel
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:48:9-41
+	android:permissionGroup
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:47:9-72
+	android:description
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:50:9-61
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:46:9-70
+permission#com.android.launcher3.permission.WRITE_SETTINGS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:51:5-56:64
+	android:label
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:55:9-55
+	android:protectionLevel
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:54:9-52
+	android:permissionGroup
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:53:9-72
+	android:description
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:56:9-62
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:52:9-71
+permission#com.android.launcher3.permission.RECEIVE_LAUNCH_BROADCASTS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:57:5-60:11
+	android:protectionLevel
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:59:9-44
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:58:9-82
+permission#com.android.launcher3.permission.RECEIVE_FIRST_LOAD_BROADCAST
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:61:5-63:55
+	android:protectionLevel
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:63:9-52
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:62:9-85
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:65:5-69
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:65:22-66
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:66:5-72
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:66:22-69
+uses-permission#android.permission.SET_WALLPAPER_HINTS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:67:5-78
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:67:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:68:5-66
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:68:22-63
+uses-permission#android.permission.BIND_APPWIDGET
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:69:5-73
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:69:22-70
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:70:5-71
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:70:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:71:5-80
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:71:22-77
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:72:5-74
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:72:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:73:5-81
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:73:22-78
+uses-permission#android.permission.FORCE_STOP_PACKAGES
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:74:5-77
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:74:22-75
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:75:5-83
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:75:22-81
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:76:5-66
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:76:22-64
+uses-permission#android.permission.REBOOT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:77:5-64
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:77:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:78:5-78
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:78:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:79:5-80
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:79:22-78
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:80:5-85
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:80:22-82
+uses-permission#com.android.launcher.permission.WRITE_SETTINGS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:81:5-86
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:81:22-83
+uses-permission#com.android.launcher3.permission.READ_SETTINGS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:82:5-86
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:82:22-83
+uses-permission#com.android.launcher3.permission.WRITE_SETTINGS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:83:5-87
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:83:22-84
+uses-permission#com.android.launcher3.permission.RECEIVE_LAUNCH_BROADCASTS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:84:5-98
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:84:22-95
+uses-permission#com.android.launcher3.permission.RECEIVE_FIRST_LOAD_BROADCAST
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:85:5-101
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:85:22-98
+uses-permission#android.permission.STATUS_BAR
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:86:5-69
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:86:22-66
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:89:5-68
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:89:22-65
+permission#com.android.launcher3.permission.JPUSH_MESSAGE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:91:5-93:47
+	android:protectionLevel
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:93:9-44
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:92:9-70
+uses-permission#com.android.launcher3.permission.JPUSH_MESSAGE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:96:5-86
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:96:22-83
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:97:5-79
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:97:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:98:5-68
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:98:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:99:5-75
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:99:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:100:5-73
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:100:22-70
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:101:5-84
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:101:22-81
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:102:5-77
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:102:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:105:5-81
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:105:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:106:5-76
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:106:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:107:5-76
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:107:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:108:5-79
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:108:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:109:5-89
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:109:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:110:5-79
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:110:22-76
+application
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:112:5-402:19
+	android:backupAgent
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:115:9-78
+	android:supportsRtl
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:121:9-35
+	android:label
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:118:9-49
+	android:hardwareAccelerated
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:116:9-43
+	android:restoreAnyVersion
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:120:9-41
+	android:largeHeap
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:119:9-51
+	android:icon
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:117:9-48
+	android:allowBackup
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:114:9-50
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:113:9-65
+activity#com.android.launcher3.Launcher
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:123:9-139:20
+	android:screenOrientation
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:130:13-49
+	android:enabled
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:131:13-35
+	android:clearTaskOnLaunch
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:126:13-45
+	android:stateNotNeeded
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:127:13-42
+	android:launchMode
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:125:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:129:13-52
+	android:theme
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:128:13-41
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:124:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME+android.intent.category.LAUNCHER+android.intent.category.MONKEY
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:132:13-138:29
+action#android.intent.action.MAIN
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:133:17-69
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:133:25-66
+category#android.intent.category.HOME
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:134:17-73
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:134:27-70
+category#android.intent.category.DEFAULT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:135:17-76
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:135:27-73
+category#android.intent.category.MONKEY
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:136:17-74
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:136:27-72
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:137:17-77
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:137:27-74
+activity#com.android.launcher3.LauncherExtension
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:141:9-156:20
+	android:screenOrientation
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:148:13-49
+	android:enabled
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:149:13-36
+	android:clearTaskOnLaunch
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:144:13-45
+	android:stateNotNeeded
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:145:13-42
+	android:launchMode
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:143:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:147:13-52
+	android:theme
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:146:13-41
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:142:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME+android.intent.category.MONKEY
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:150:13-155:29
+activity#com.android.launcher3.ToggleWeightWatcher
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:162:9-170:20
+	android:enabled
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:165:13-57
+	android:label
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:164:13-58
+	android:icon
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:166:13-52
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:163:13-69
+intent-filter#android.intent.category.DEFAULT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:167:13-169:29
+activity#com.android.launcher3.LauncherWallpaperPickerActivity
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:173:9-183:20
+	android:finishOnCloseSystemDialogs
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:177:13-54
+	android:process
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:178:13-49
+	android:label
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:176:13-51
+	android:theme
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:175:13-57
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:174:13-81
+intent-filter#android.intent.action.SET_WALLPAPER+android.intent.category.DEFAULT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:179:13-182:29
+action#android.intent.action.SET_WALLPAPER
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:180:17-78
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:180:25-75
+activity#com.android.launcher3.WallpaperCropActivity
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:189:9-198:20
+	android:finishOnCloseSystemDialogs
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:191:13-54
+	android:process
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:192:13-49
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:190:13-71
+intent-filter#android.intent.category.DEFAULT+android.service.wallpaper.CROP_AND_SET_WALLPAPER
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:193:13-197:29
+action#android.service.wallpaper.CROP_AND_SET_WALLPAPER
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:194:17-91
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:194:25-88
+data
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:196:17-52
+	android:mimeType
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:196:23-49
+activity#com.android.launcher3.MemoryDumpActivity
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:201:9-214:20
+	android:enabled
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:205:13-57
+	android:label
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:204:13-58
+	android:excludeFromRecents
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:206:13-46
+	android:icon
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:207:13-52
+	android:theme
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:203:13-59
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:202:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:209:13-213:29
+activity#com.android.upgrade.RomInstallDialog
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:216:9-218:76
+	android:configChanges
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:218:13-74
+	android:theme
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:217:13-41
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:216:19-70
+receiver#com.android.upgrade.NetworkReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:220:9-224:20
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:220:19-69
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:221:13-223:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:222:17-78
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:222:25-76
+service#com.android.launcher3.MemoryTracker
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:226:9-229:19
+	android:enabled
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:227:13-57
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:226:18-68
+receiver#com.android.launcher3.WallpaperChangedReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:231:9-236:20
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:232:13-74
+intent-filter#android.intent.action.WALLPAPER_CHANGED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:233:13-235:29
+action#android.intent.action.WALLPAPER_CHANGED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:234:17-82
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:234:25-79
+receiver#com.android.launcher3.AppWidgetsRestoredReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:257:9-261:20
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:257:19-82
+intent-filter#android.appwidget.action.APPWIDGET_HOST_RESTORED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:258:13-260:29
+action#android.appwidget.action.APPWIDGET_HOST_RESTORED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:259:17-90
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:259:25-88
+receiver#com.android.launcher3.UserInitializeReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:264:9-270:20
+	android:exported
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:266:13-37
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:265:13-72
+intent-filter#android.intent.action.USER_INITIALIZE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:267:13-269:29
+action#android.intent.action.USER_INITIALIZE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:268:17-80
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:268:25-77
+receiver#com.android.launcher3.PackageChangedReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:272:9-279:20
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:272:19-78
+intent-filter#android.intent.action.PACKAGE_CHANGED+android.intent.action.PACKAGE_REMOVED+android.intent.action.PACKAGE_REPLACED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:273:13-278:29
+action#android.intent.action.PACKAGE_CHANGED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:274:17-79
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:274:25-77
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:275:17-80
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:275:25-78
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:276:17-79
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:276:25-77
+receiver#com.android.launcher3.StartupReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:281:9-285:20
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:281:19-71
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:282:13-284:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:283:17-79
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:283:25-76
+receiver#com.android.launcher3.HdmiReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:287:9-291:20
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:287:19-68
+intent-filter#android.intent.action.HDMI_PLUGGED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:288:13-290:29
+action#android.intent.action.HDMI_PLUGGED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:289:17-76
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:289:25-74
+receiver#com.android.upgrade.BatteryReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:292:9-293:20
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:292:19-69
+provider#com.android.launcher3.LauncherProvider
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:296:9-301:87
+	android:readPermission
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:301:13-84
+	android:authorities
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:298:13-65
+	android:exported
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:299:13-37
+	android:writePermission
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:300:13-86
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:297:13-66
+meta-data#android.nfc.disable_beam_default
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:303:9-304:47
+	android:value
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:304:24-44
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:303:20-67
+activity#cn.jpush.android.ui.PushActivity
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:308:9-317:20
+	android:exported
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:311:13-37
+	android:configChanges
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:310:13-63
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:309:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.android.launcher3
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:312:13-316:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:313:17-75
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:313:25-72
+category#com.android.launcher3
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:315:17-66
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:315:27-63
+service#cn.jpush.android.service.DownloadService
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:319:9-323:19
+	android:enabled
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:321:13-35
+	android:exported
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:322:13-37
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:320:13-68
+service#cn.jpush.android.service.PushService
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:325:9-336:19
+	android:enabled
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:327:13-35
+	android:exported
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:328:13-37
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:326:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:329:13-335:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:330:17-75
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:330:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:331:17-73
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:331:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:332:17-78
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:332:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:333:17-76
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:333:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:339:9-347:19
+	android:enabled
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:341:13-35
+	android:exported
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:342:13-36
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:340:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.android.launcher3
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:343:13-346:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:344:17-80
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:344:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:350:9-369:20
+	android:enabled
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:352:13-35
+	android:exported
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:353:13-37
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:351:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.android.launcher3
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:354:14-357:29
+	android:priority
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:354:29-52
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:355:17-94
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:355:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:358:13-361:29
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:359:17-77
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:359:25-74
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:363:13-367:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:364:17-78
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:364:25-75
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:372:9-75
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:372:19-72
+receiver#com.android.push.MyReceiver
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:375:9-387:20
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:376:13-55
+intent-filter#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.jpush.android.intent.UNREGISTRATION+com.android.launcher3
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:377:13-386:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:378:17-79
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:378:25-76
+action#cn.jpush.android.intent.UNREGISTRATION
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:379:17-81
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:379:25-78
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:380:17-83
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:380:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:381:17-88
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:381:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:382:17-86
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:382:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:383:17-91
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:383:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:384:17-77
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:384:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:391:9-84
+	android:value
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:391:49-82
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:391:20-48
+meta-data#JPUSH_APPKEY
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:392:9-91
+	android:value
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:392:48-88
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:392:20-47
+activity#com.android.upgrade.UpgradeInfoActivity
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:394:9-400:20
+	android:screenOrientation
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:395:13-50
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:394:19-73
+intent-filter#android.intent.action.UpgradeInfoActivity+android.intent.category.DEFAULT
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:396:13-399:29
+action#android.intent.action.UpgradeInfoActivity
+ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:398:17-84
+	android:name
+		ADDED from /Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/AndroidManifest.xml:398:25-81

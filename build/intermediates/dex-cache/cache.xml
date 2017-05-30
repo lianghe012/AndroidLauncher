@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/libs/ServiceManager.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="00e72a90f1d3c621ab9f6b03ec000066b8c3e699">
+        <dex dex="/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/pre-dexed/debug/ServiceManager-bfe92431f0af6f6713ad6caac9f0f8e3e0dc91b5.jar" />
+    </item>
+    <item
+        jar="/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/libs/jpush-sdk-release1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bea84de265dbd10ec4ea0d0185cf19dce738edd6">
+        <dex dex="/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/pre-dexed/debug/jpush-sdk-release1.8.0-79e4dabc66b6e586cd262608ffdb49cedcf6a885.jar" />
+    </item>
+    <item
+        jar="/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/pre-dexed/debug/android-support-v4-2cb1568aa326e03c957d4d1d90c7f92430ca062a.jar" />
+    </item>
+
+</items>

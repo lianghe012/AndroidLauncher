@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<!-- android:background="#00000000" -->
+    <LinearLayout
+        android:id="@+id/top_laygreed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/recharg_agreedtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/log_message"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/buleline"
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:background="#14b4ff"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/recharg_agreed_scorll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/exit_buttonlay"
+        android:layout_below="@+id/top_laygreed"
+        android:fadeScrollbars="false"
+        android:scrollbarSize="3dp"
+        android:scrollbarThumbVertical="@drawable/btn_pull_down_short"
+        android:scrollbarTrackVertical="@drawable/pull_down_long"
+        android:scrollbars="vertical" >
+
+        <TextView
+            android:id="@+id/text_foragrred"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="28dp"
+            android:layout_marginTop="28dp"
+            android:textColor="#ffffff" />
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/exit_buttonlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" >
+
+        <Button
+            android:id="@+id/exit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="@drawable/button_selected"
+            android:text="@string/Ensure"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/fouseBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+</RelativeLayout>

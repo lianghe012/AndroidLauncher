@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/libs/jpush-sdk-release1.8.0.jar
+FILE_HASH=bea84de265dbd10ec4ea0d0185cf19dce738edd6
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

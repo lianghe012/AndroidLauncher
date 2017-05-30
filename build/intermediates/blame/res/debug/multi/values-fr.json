@@ -1,0 +1,1945 @@
+[
+    {
+        "outputFile": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/values-fr/values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 92,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 11731,
+                        "endColumn": 92,
+                        "endOffset": 11819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 88,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 11824,
+                        "endColumn": 88,
+                        "endOffset": 11908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 263,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 12120,
+                        "endColumn": 263,
+                        "endOffset": 12379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 121,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 11998,
+                        "endColumn": 121,
+                        "endOffset": 12115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 84,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 11913,
+                        "endColumn": 84,
+                        "endOffset": 11993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 100,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4889,
+                        "endColumn": 100,
+                        "endOffset": 4985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 95,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4990,
+                        "endColumn": 95,
+                        "endOffset": 5081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 105,
+                    "endOffset": 1056
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 105,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1061,
+                    "endColumn": 113,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 113,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endColumn": 92,
+                    "endOffset": 1263
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4213,
+                        "endColumn": 92,
+                        "endOffset": 4301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1268,
+                    "endColumn": 91,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4306,
+                        "endColumn": 91,
+                        "endOffset": 4393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 84,
+                    "endOffset": 1440
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 84,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1445,
+                    "endColumn": 126,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 7939,
+                        "endColumn": 126,
+                        "endOffset": 8061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 125,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 8066,
+                        "endColumn": 125,
+                        "endOffset": 8187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endColumn": 106,
+                    "endOffset": 1800
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5423,
+                        "endColumn": 106,
+                        "endOffset": 5525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1805,
+                    "endColumn": 105,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5635,
+                        "endColumn": 105,
+                        "endOffset": 5736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1911,
+                    "endColumn": 107,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5315,
+                        "endColumn": 107,
+                        "endOffset": 5418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 105,
+                    "endOffset": 2120
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5209,
+                        "endColumn": 105,
+                        "endOffset": 5310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2125,
+                    "endColumn": 109,
+                    "endOffset": 2230
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5741,
+                        "endColumn": 109,
+                        "endOffset": 5846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2235,
+                    "endColumn": 104,
+                    "endOffset": 2335
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5530,
+                        "endColumn": 104,
+                        "endOffset": 5630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2340,
+                    "endColumn": 79,
+                    "endOffset": 2415
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2608,
+                        "endColumn": 79,
+                        "endOffset": 2683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2420,
+                    "endColumn": 74,
+                    "endOffset": 2490
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 10186,
+                        "endColumn": 74,
+                        "endOffset": 10256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2495,
+                    "endColumn": 142,
+                    "endOffset": 2633
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3050,
+                        "endColumn": 142,
+                        "endOffset": 3188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2638,
+                    "endColumn": 98,
+                    "endOffset": 2732
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 7727,
+                        "endColumn": 98,
+                        "endOffset": 7821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2737,
+                    "endColumn": 87,
+                    "endOffset": 2820
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4592,
+                        "endColumn": 87,
+                        "endOffset": 4675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2825,
+                    "endColumn": 100,
+                    "endOffset": 2921
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4680,
+                        "endColumn": 100,
+                        "endOffset": 4776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2926,
+                    "endColumn": 97,
+                    "endOffset": 3019
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4494,
+                        "endColumn": 97,
+                        "endOffset": 4587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3024,
+                    "endColumn": 122,
+                    "endOffset": 3142
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5086,
+                        "endColumn": 122,
+                        "endOffset": 5204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3147,
+                    "endColumn": 95,
+                    "endOffset": 3238
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4398,
+                        "endColumn": 95,
+                        "endOffset": 4489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3243,
+                    "endColumn": 84,
+                    "endOffset": 3323
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7441,
+                        "endColumn": 84,
+                        "endOffset": 7521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3328,
+                    "endColumn": 136,
+                    "endOffset": 3460
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2084,
+                        "endColumn": 136,
+                        "endOffset": 2216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3465,
+                    "endColumn": 120,
+                    "endOffset": 3581
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2221,
+                        "endColumn": 120,
+                        "endOffset": 2337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3586,
+                    "endColumn": 152,
+                    "endOffset": 3734
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 8594,
+                        "endColumn": 152,
+                        "endOffset": 8742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3739,
+                    "endColumn": 84,
+                    "endOffset": 3819
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 8412,
+                        "endColumn": 92,
+                        "endOffset": 8500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3824,
+                    "endColumn": 129,
+                    "endOffset": 3949
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 8282,
+                        "endColumn": 129,
+                        "endOffset": 8407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3954,
+                    "endColumn": 80,
+                    "endOffset": 4030
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 8505,
+                        "endColumn": 88,
+                        "endOffset": 8589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4035,
+                    "endColumn": 89,
+                    "endOffset": 4120
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 8192,
+                        "endColumn": 89,
+                        "endOffset": 8277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4125,
+                    "endColumn": 185,
+                    "endOffset": 4306
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 10000,
+                        "endColumn": 185,
+                        "endOffset": 10181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4311,
+                    "endColumn": 93,
+                    "endOffset": 4400
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 9906,
+                        "endColumn": 93,
+                        "endOffset": 9995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4405,
+                    "endColumn": 85,
+                    "endOffset": 4486
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 10652,
+                        "endColumn": 85,
+                        "endOffset": 10733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4491,
+                    "endColumn": 91,
+                    "endOffset": 4578
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7526,
+                        "endColumn": 91,
+                        "endOffset": 7613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4583,
+                    "endColumn": 60,
+                    "endOffset": 4639
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 68,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4644,
+                    "endColumn": 118,
+                    "endOffset": 4758
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 10870,
+                        "endColumn": 122,
+                        "endOffset": 10988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4763,
+                    "endColumn": 152,
+                    "endOffset": 4911
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 10261,
+                        "endColumn": 160,
+                        "endOffset": 10417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4916,
+                    "endColumn": 127,
+                    "endOffset": 5039
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 10738,
+                        "endColumn": 131,
+                        "endOffset": 10865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5044,
+                    "endColumn": 109,
+                    "endOffset": 5149
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 10422,
+                        "endColumn": 109,
+                        "endOffset": 10527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5154,
+                    "endColumn": 119,
+                    "endOffset": 5269
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 10532,
+                        "endColumn": 119,
+                        "endOffset": 10647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5274,
+                    "endColumn": 114,
+                    "endOffset": 5384
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 7063,
+                        "endColumn": 114,
+                        "endOffset": 7173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5389,
+                    "endColumn": 89,
+                    "endOffset": 5474
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 7178,
+                        "endColumn": 89,
+                        "endOffset": 7263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5479,
+                    "endColumn": 89,
+                    "endOffset": 5564
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endColumn": 89,
+                        "endOffset": 2880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5569,
+                    "endColumn": 84,
+                    "endOffset": 5649
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2885,
+                        "endColumn": 84,
+                        "endOffset": 2965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5654,
+                    "endColumn": 79,
+                    "endOffset": 5729
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2970,
+                        "endColumn": 79,
+                        "endOffset": 3045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5734,
+                    "endColumn": 70,
+                    "endOffset": 5800
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 70,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5805,
+                    "endColumn": 129,
+                    "endOffset": 5930
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3310,
+                        "endColumn": 129,
+                        "endOffset": 3435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5935,
+                    "endColumn": 107,
+                    "endOffset": 6038
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 4781,
+                        "endColumn": 107,
+                        "endOffset": 4884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6043,
+                    "endColumn": 133,
+                    "endOffset": 6172
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3440,
+                        "endColumn": 133,
+                        "endOffset": 3569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6177,
+                    "endColumn": 134,
+                    "endOffset": 6307
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1860,
+                        "endColumn": 134,
+                        "endOffset": 1990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6312,
+                    "endColumn": 106,
+                    "endOffset": 6414
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2688,
+                        "endColumn": 106,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6419,
+                    "endColumn": 100,
+                    "endOffset": 6515
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 9009,
+                        "endColumn": 100,
+                        "endOffset": 9105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6520,
+                    "endColumn": 149,
+                    "endOffset": 6665
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 8859,
+                        "endColumn": 149,
+                        "endOffset": 9004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6670,
+                    "endColumn": 111,
+                    "endOffset": 6777
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 8747,
+                        "endColumn": 111,
+                        "endOffset": 8854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6782,
+                    "endColumn": 108,
+                    "endOffset": 6886
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 9110,
+                        "endColumn": 108,
+                        "endOffset": 9214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6891,
+                    "endColumn": 116,
+                    "endOffset": 7003
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3193,
+                        "endColumn": 116,
+                        "endOffset": 3305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7008,
+                    "endColumn": 99,
+                    "endOffset": 7103
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 11355,
+                        "endColumn": 99,
+                        "endOffset": 11450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7108,
+                    "endColumn": 91,
+                    "endOffset": 7195
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 11263,
+                        "endColumn": 91,
+                        "endOffset": 11350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7200,
+                    "endColumn": 90,
+                    "endOffset": 7286
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 11640,
+                        "endColumn": 90,
+                        "endOffset": 11726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7291,
+                    "endColumn": 96,
+                    "endOffset": 7383
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 11455,
+                        "endColumn": 96,
+                        "endOffset": 11547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7388,
+                    "endColumn": 87,
+                    "endOffset": 7471
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 11552,
+                        "endColumn": 87,
+                        "endOffset": 11635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7476,
+                    "endColumn": 175,
+                    "endOffset": 7647
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5959,
+                        "endColumn": 175,
+                        "endOffset": 6130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7652,
+                    "endColumn": 171,
+                    "endOffset": 7819
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6568,
+                        "endColumn": 171,
+                        "endOffset": 6735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7824,
+                    "endColumn": 179,
+                    "endOffset": 7999
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6247,
+                        "endColumn": 179,
+                        "endOffset": 6422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8004,
+                    "endColumn": 176,
+                    "endOffset": 8176
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 6886,
+                        "endColumn": 176,
+                        "endOffset": 7058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8181,
+                    "endColumn": 107,
+                    "endOffset": 8284
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5851,
+                        "endColumn": 107,
+                        "endOffset": 5954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8289,
+                    "endColumn": 140,
+                    "endOffset": 8425
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6427,
+                        "endColumn": 140,
+                        "endOffset": 6563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8430,
+                    "endColumn": 111,
+                    "endOffset": 8537
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 6135,
+                        "endColumn": 111,
+                        "endOffset": 6242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8542,
+                    "endColumn": 145,
+                    "endOffset": 8683
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 6740,
+                        "endColumn": 145,
+                        "endOffset": 6881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8688,
+                    "endColumn": 74,
+                    "endOffset": 8758
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2533,
+                        "endColumn": 74,
+                        "endOffset": 2603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8763,
+                    "endColumn": 92,
+                    "endOffset": 8851
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2342,
+                        "endColumn": 92,
+                        "endOffset": 2430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8856,
+                    "endColumn": 97,
+                    "endOffset": 8949
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2435,
+                        "endColumn": 97,
+                        "endOffset": 2528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8954,
+                    "endColumn": 141,
+                    "endOffset": 9091
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 141,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 9096,
+                    "endColumn": 125,
+                    "endOffset": 9217
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 125,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 9222,
+                    "endColumn": 89,
+                    "endOffset": 9307
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 11173,
+                        "endColumn": 89,
+                        "endOffset": 11258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9312,
+                    "endColumn": 134,
+                    "endOffset": 9442
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3856,
+                        "endColumn": 138,
+                        "endOffset": 3990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9447,
+                    "endColumn": 133,
+                    "endOffset": 9576
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3574,
+                        "endColumn": 137,
+                        "endOffset": 3707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9581,
+                    "endColumn": 139,
+                    "endOffset": 9716
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3712,
+                        "endColumn": 143,
+                        "endOffset": 3851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9721,
+                    "endColumn": 111,
+                    "endOffset": 9828
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4101,
+                        "endColumn": 111,
+                        "endOffset": 4208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 9833,
+                    "endColumn": 105,
+                    "endOffset": 9934
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3995,
+                        "endColumn": 105,
+                        "endOffset": 4096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 9939,
+                    "endColumn": 99,
+                    "endOffset": 10034
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1760,
+                        "endColumn": 99,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 10039,
+                    "endColumn": 95,
+                    "endOffset": 10130
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endColumn": 95,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 10135,
+                    "endColumn": 172,
+                    "endOffset": 10303
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7268,
+                        "endColumn": 172,
+                        "endOffset": 7436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 10308,
+                    "endColumn": 94,
+                    "endOffset": 10398
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 11078,
+                        "endColumn": 94,
+                        "endOffset": 11168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 10403,
+                    "endColumn": 78,
+                    "endOffset": 10477
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 78,
+                        "endOffset": 1755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 10482,
+                    "endColumn": 84,
+                    "endOffset": 10562
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 10993,
+                        "endColumn": 84,
+                        "endOffset": 11073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 10567,
+                    "endColumn": 88,
+                    "endOffset": 10651
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1995,
+                        "endColumn": 88,
+                        "endOffset": 2079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 10656,
+                    "endColumn": 83,
+                    "endOffset": 10735
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1597,
+                        "endColumn": 83,
+                        "endOffset": 1676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 10740,
+                    "endColumn": 167,
+                    "endOffset": 10903
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 9644,
+                        "endColumn": 167,
+                        "endOffset": 9807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 10908,
+                    "endColumn": 93,
+                    "endOffset": 10997
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 9812,
+                        "endColumn": 93,
+                        "endOffset": 9901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 11002,
+                    "endColumn": 127,
+                    "endOffset": 11125
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 9516,
+                        "endColumn": 127,
+                        "endOffset": 9639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 11130,
+                    "endColumn": 193,
+                    "endOffset": 11319
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 9322,
+                        "endColumn": 193,
+                        "endOffset": 9511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 11324,
+                    "endColumn": 102,
+                    "endOffset": 11422
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 9219,
+                        "endColumn": 102,
+                        "endOffset": 9317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 11427,
+                    "endColumn": 108,
+                    "endOffset": 11531
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 7618,
+                        "endColumn": 108,
+                        "endOffset": 7722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 11536,
+                    "endColumn": 112,
+                    "endOffset": 11644
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 7826,
+                        "endColumn": 112,
+                        "endOffset": 7934
+                    }
+                }
+            }
+        ]
+    }
+]

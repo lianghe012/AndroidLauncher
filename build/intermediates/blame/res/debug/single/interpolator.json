@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/interpolator/decelerate_quart.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/interpolator/decelerate_quart.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/interpolator/decelerate_quint.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/interpolator/decelerate_quint.xml"
+    }
+]

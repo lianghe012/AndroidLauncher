@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/values-nodpi-v4/values-nodpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 19,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/values-nodpi/wallpapers.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endLine": 19,
+                        "endColumn": 19,
+                        "endOffset": 732
+                    }
+                }
+            }
+        ]
+    }
+]

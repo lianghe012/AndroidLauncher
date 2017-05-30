@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rom_install_bg" >
+
+    <RelativeLayout
+        android:id="@+id/rom_install_layout"
+        android:layout_width="500dp"
+        android:layout_height="350dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/rom_install_dialog"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="@string/rom_new_version"
+            android:textColor="@color/content_color"
+            android:textSize="20sp"
+            android:visibility="gone" />
+
+        <ScrollView
+            android:id="@+id/desc_scroll"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_marginTop="50dp"
+            android:scrollbars="none" 
+            android:layout_centerHorizontal="true">
+
+            <LinearLayout
+                android:id="@+id/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/btn_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal"
+            android:visibility="visible" >
+
+            <Button
+                android:id="@+id/confirm"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rom_install_dailog_btn_selector"
+                android:gravity="center"
+                android:text="@string/upgrade_now"
+                android:textColor="@color/content_color" 
+                android:textSize="15sp"/>
+
+            <Button
+                android:id="@+id/cancle"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rom_install_dailog_btn_selector"
+                android:gravity="center"
+                android:text="@string/upgrade_next"
+                android:textColor="@color/content_color" 
+                android:textSize="15sp"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rom_install_layout_forced"
+        android:layout_width="500dp"
+        android:layout_height="350dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/rom_install_dialog"
+        android:visibility="gone" >
+        
+        <TextView 
+            android:id="@+id/fored_text_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/content_color"
+            android:text="@string/count_num_text"
+            android:textSize="20sp"/>
+
+        <LinearLayout
+            android:id="@+id/btn_layout_forced"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal"
+            android:visibility="visible" >
+
+            <Button
+                android:id="@+id/confirm_forced"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rom_install_dailog_btn_selector"
+                android:gravity="center"
+                android:text="@string/upgrade_now_forced"
+                android:textColor="@color/content_color" 
+                android:textSize="15sp"/>
+
+            <Button
+                android:id="@+id/cancle_forced"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rom_install_dailog_btn_selector"
+                android:gravity="center"
+                android:text="@string/upgrade_next_forced"
+                android:textColor="@color/content_color"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/layout-port/migration_cling.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/layout-port/migration_cling.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/layout-port/longpress_cling.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/layout-port/longpress_cling.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/layout-port/launcher.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/layout-port/launcher.xml"
+    }
+]

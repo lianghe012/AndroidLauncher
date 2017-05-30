@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/wallpaper_tile_fg.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/wallpaper_tile_fg.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/init_install_anim.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/init_install_anim.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/button_selected.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/button_selected.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/widget_button.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/widget_button.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/rom_install_dailog_btn_selector.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/rom_install_dailog_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/info_target_selector.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/info_target_selector.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/wallpaper_button.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/wallpaper_button.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/uninstall_target_selector.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/uninstall_target_selector.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/all_apps_button_icon.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/all_apps_button_icon.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/dialog_bg.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/setting_button.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/setting_button.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/remove_target_selector.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/remove_target_selector.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/bg_migration_cling.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/bg_migration_cling.xml"
+    },
+    {
+        "merged": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/build/intermediates/res/merged/debug/drawable/focusable_view_bg.xml",
+        "source": "/Users/wanglianghe/Documents/newCode/PSLauncher/Launcher5.0.1/ToggleWeightWatcher/res/drawable/focusable_view_bg.xml"
+    }
+]
